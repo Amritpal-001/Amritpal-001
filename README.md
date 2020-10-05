@@ -17,17 +17,13 @@ Here are some ideas to get you started:
 
 
 
-### Hey 👋, I'm [Amritpal Singh!](https://chiragsamal.github.io/chirag/)
-
+### Hey 👋, I'm [Amritpal Singh!](https://github.com/Amritpal-001)
 
 <a href="https://twitter.com/DrAmrit_pal">
   <img align="left" alt="Chirag's Resume | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/amritpal-singh-38284315a/">
   <img align="left" alt="Chirag's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/amrit.sketchbook/">
-  <img align="left" alt="Chirag's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://medium.com/@Amritpal001">
   <img align="left" alt="Chirag's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -59,8 +55,6 @@ Beside's developing stuff, I enjoy running marathons, making art, reading books 
 <code><img height="20" src="https://github.com/chiragsamal/Pothole-Detection/blob/master/Images/Rlogo.png"></code>
 <code><img height="20" src="https://github.com/chiragsamal/Pothole-Detection/blob/master/Images/Tensorflow_logo.svg.png"></code>
 <code><img height="20" src="https://github.com/chiragsamal/Pothole-Detection/blob/master/Images/pytorch.jpeg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 ![Amritpal's github stats](https://github-readme-stats.vercel.app/api?username=amritpal-001&show_icons=true&hide_border=true)
