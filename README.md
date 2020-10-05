@@ -45,14 +45,9 @@ Beside's developing stuff, I enjoy running marathons, making art, reading books 
 
 **Talking about Personal Stuffs/Achievements:**
 
-- ⚡️ Co-founder of The School of ML  👨🏽‍💻 
-- 🎓 GirlScript Summer of Code Mentor 👨🏽‍💼
-- 👨‍💻 Summer Research Intern @ [Indian Institute of Science, Bangalore (IISc)](https://www.iisc.ac.in/)
-- 🌱 Kaggle Master [@Kaggle](https://www.kaggle.com/chirag9073)
-- 🏆 Semi-finalist at Texas Instruments Innovation Challenge 2019 (Team Leader). 
-- 🥇 Facebook PyTorch Scholarship Winner
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: chirag6891@gmail.com
+- 🌱 Kaggle Contributor [@Kaggle](https://www.kaggle.com/amritpal333)
+- 🥇 DeepLearning.AI certified Tensorflow devolper
+- 📫 How to reach me: ap4.singh@gmail.com
 
 &nbsp;
 
@@ -71,23 +66,18 @@ Beside's developing stuff, I enjoy running marathons, making art, reading books 
 ![Amritpal's github stats](https://github-readme-stats.vercel.app/api?username=amritpal-001&show_icons=true&hide_border=true)
 
 
-⭐️ Recent projects in which I have created and contributed [Chirag Samal](https://github.com/chiragsamal)
 
+⭐️ Recent projects in which I have created and contributed [Amritpal singh](https://github.com/amritpal-001)
 
-<a href="https://github.com/chiragsamal/Zomato">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Zomato" />
+<a href="https://github.com/Amritpal-001/100daysofcode1">
+  <img align="left" src="https://github.com/Amritpal-001/100daysofcode1" />
 </a>
 
-<a href="https://github.com/chiragsamal/Microsoft-Malware-Prediction">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Microsoft-Malware-Prediction" />
+<a href="https://github.com/Amritpal-001/NIFTI-Xrays-Radiology">
+  <img align="right" src="https://github.com/Amritpal-001/NIFTI-Xrays-Radiology" />
 </a>
 
-<a href="https://github.com/chiragsamal/Netflix-Movies-and-TV-Shows">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Netflix-Movies-and-TV-Shows" />
+<a href="https://github.com/Amritpal-001/DICOM-Xray-CNNs">
+  <img align="left" src="https://github.com/Amritpal-001/DICOM-Xray-CNNs" />
 </a>
-
-<a href="https://github.com/chiragsamal/Understanding-Forest-from-Space">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Understanding-Forest-from-Space" />
-</a>
-
 
