@@ -45,9 +45,9 @@ Beside's developing stuff, I enjoy running marathons, making art, reading books 
 
 **Talking about Personal Stuffs/Achievements:**
 
-- 🌱 Kaggle Contributor [@Kaggle](https://www.kaggle.com/amritpal333)
-- 🥇 DeepLearning.AI certified Tensorflow devolper
-- 📫 How to reach me: ap4.singh@gmail.com
+- Kaggle Contributor [@Kaggle](https://www.kaggle.com/amritpal333)
+-  DeepLearning.AI certified Tensorflow devolper
+- How to reach me: ap4.singh@gmail.com
 
 &nbsp;
 
