@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm Amritpal singh, an undergraduate student from IIIT Naya Raipur 🚀 from India, Currently working as Research Intern 🙍🏽‍♂️ at [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) and [GSSoC'20 Mentor](https://www.gssoc.tech/) .
+Hi, I'm Amritpal singh, an undergraduate student from Maulana azad medical college, New Delhi 🚀 India.
 
 
-Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻.
+Beside's developing stuff, I enjoy running marathons, making art, reading books 📚.
 
   <img align="right" alt="GIF" width="500" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />
 
