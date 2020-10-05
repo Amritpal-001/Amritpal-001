@@ -65,19 +65,3 @@ Beside's developing stuff, I enjoy running marathons, making art, reading books 
 
 ![Amritpal's github stats](https://github-readme-stats.vercel.app/api?username=amritpal-001&show_icons=true&hide_border=true)
 
-
-
-⭐️ Recent projects in which I have created and contributed [Amritpal singh](https://github.com/amritpal-001)
-
-<a href="https://github.com/Amritpal-001/100daysofcode1">
-  <img align="left" src="https://github.com/Amritpal-001/100daysofcode1" />
-</a>
-
-<a href="https://github.com/Amritpal-001/NIFTI-Xrays-Radiology">
-  <img align="right" src="https://github.com/Amritpal-001/NIFTI-Xrays-Radiology" />
-</a>
-
-<a href="https://github.com/Amritpal-001/DICOM-Xray-CNNs">
-  <img align="left" src="https://github.com/Amritpal-001/DICOM-Xray-CNNs" />
-</a>
-
