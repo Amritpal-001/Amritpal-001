@@ -61,18 +61,14 @@ Beside's developing stuff, I enjoy running marathons, making art, reading books 
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://github.com/chiragsamal/Pothole-Detection/blob/master/Images/Rlogo.png"></code>
-<code><img height="20" src="https://github.com/chiragsamal/Pothole-Detection/blob/master/Images/django-logo-negative.png"></code>
 <code><img height="20" src="https://github.com/chiragsamal/Pothole-Detection/blob/master/Images/Tensorflow_logo.svg.png"></code>
 <code><img height="20" src="https://github.com/chiragsamal/Pothole-Detection/blob/master/Images/pytorch.jpeg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=chiragsamal&show_icons=true&hide_border=true)
+![Amritpal's github stats](https://github-readme-stats.vercel.app/api?username=chiragsamal&show_icons=true&hide_border=true)
 
 
 ⭐️ Recent projects in which I have created and contributed [Chirag Samal](https://github.com/chiragsamal)
