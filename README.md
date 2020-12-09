@@ -5,6 +5,12 @@
 - an undergraduate student from Maulana azad medical college, New Delhi 🚀 India.
 - DeepLearning.AI certified Tensorflow devolper
 
+''' **Interest:**
+- 
+'''
+
+
+- DeepLearning.AI certified Tensorflow devolper
 
 - ap4.singh@gmail.com
 - [@Kaggle](https://www.kaggle.com/amritpal333)
