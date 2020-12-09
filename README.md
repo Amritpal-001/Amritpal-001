@@ -17,8 +17,6 @@
 Computer vision          |  AI in medicine      |  Generative AI
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/Amritpal-001/Amritpal-001/blob/main/Images/skin_lesion_1.png) |  ![](https://github.com/Amritpal-001/Amritpal-001/blob/main/Images/ai.med_logo.jpeg) |  ![](https://github.com/Amritpal-001/Amritpal-001/blob/main/Images/GAN_art_1.jpeg)
- ![]()          | ![Amritpal's github stats](https://github-readme-stats.vercel.app/api?username=Amritpal-001&count_private=true&show_icons=true&hide_border=true&theme=chartreuse-dark) |
-
 
 
 **Languages and Tools:**
@@ -28,4 +26,4 @@ Computer vision          |  AI in medicine      |  Generative AI
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://github.com/chiragsamal/Pothole-Detection/blob/master/Images/Rlogo.png"></code>
 
-
+![Amritpal's github stats](https://github-readme-stats.vercel.app/api?username=Amritpal-001&count_private=true&show_icons=true&hide_border=true&theme=chartreuse-dark) |
