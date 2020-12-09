@@ -3,9 +3,11 @@
 
 **More about me:**
 - an undergraduate student from Maulana azad medical college, New Delhi 🚀 India.
-- Kaggle Contributor [@Kaggle](https://www.kaggle.com/amritpal333)
 - DeepLearning.AI certified Tensorflow devolper
+
+
 - ap4.singh@gmail.com
+- [@Kaggle](https://www.kaggle.com/amritpal333)
 
 <a href="https://twitter.com/DrAmrit_pal">
 <a href="https://www.linkedin.com/in/amritpal-singh-38284315a/">
