@@ -8,14 +8,13 @@
 
 - ap4.singh@gmail.com
 - [@Kaggle](https://www.kaggle.com/amritpal333)
-
-<a href="https://twitter.com/DrAmrit_pal">
-<a href="https://www.linkedin.com/in/amritpal-singh-38284315a/">
+<a href="https://twitter.com/DrAmrit_pal">  <a href="https://www.linkedin.com/in/amritpal-singh-38284315a/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@Amritpal001">
+</a>  <a href="https://medium.com/@Amritpal001">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+
+
 
 
 **Languages and Tools:**
