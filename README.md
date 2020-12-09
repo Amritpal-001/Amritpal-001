@@ -25,5 +25,5 @@
 
 
 
-[![Amritpal's github stats](https://github-readme-stats.vercel.app/api?username=Amritpal-001&count_private=true&show_icons=true&hide_border=true)](https://github.com/Amritpal-001/github-readme-stats)
+[![Amritpal's github stats](https://github-readme-stats.vercel.app/api?username=Amritpal-001&count_private=true&show_icons=true&hide_border=true)]
 
