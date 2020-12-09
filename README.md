@@ -14,6 +14,10 @@
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="Images/my_work1.jpg" alt="my_work1"/> |  <img src="Images/my_work1.jpg" alt="my_work1"/>
+
 
 ![Amritpal's github stats](https://github-readme-stats.vercel.app/api?username=Amritpal-001&count_private=true&show_icons=true&hide_border=true&theme=chartreuse-dark)
 
