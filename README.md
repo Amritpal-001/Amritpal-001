@@ -1,16 +1,12 @@
 
-# Hey 👋, I'm [Amrit !]
-
-Hi, I'm Amritpal singh, an undergraduate student from Maulana azad medical college, New Delhi 🚀 India.
-
-  <img align="right" alt="GIF" width="500" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />
-
+## Hey 👋, I'm Amrit
 
 **More about me:**
-
+- an undergraduate student from Maulana azad medical college, New Delhi 🚀 India.
 - Kaggle Contributor [@Kaggle](https://www.kaggle.com/amritpal333)
 - DeepLearning.AI certified Tensorflow devolper
 - ap4.singh@gmail.com
+
 <a href="https://twitter.com/DrAmrit_pal">
 
 <a href="https://www.linkedin.com/in/amritpal-singh-38284315a/">
@@ -20,6 +16,8 @@ Hi, I'm Amritpal singh, an undergraduate student from Maulana azad medical colle
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
+
+
 <br />
 &nbsp;
 
