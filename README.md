@@ -1,48 +1,26 @@
-<!--
-**Amritpal-001/Amritpal-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-### Hey 👋, I'm [Amritpal Singh!](https://github.com/Amritpal-001)
-
-<a href="https://twitter.com/DrAmrit_pal">
-  <img align="left" alt="Chirag's Resume | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/amritpal-singh-38284315a/">
-  <img align="left" alt="Chirag's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@Amritpal001">
-  <img align="left" alt="Chirag's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<br />
-<br />
+# Hey 👋, I'm [Amrit !]
 
 Hi, I'm Amritpal singh, an undergraduate student from Maulana azad medical college, New Delhi 🚀 India.
-
-
-Beside's developing stuff, I enjoy running marathons, making art, reading books 📚.
 
   <img align="right" alt="GIF" width="500" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />
 
 
-**Talking about Personal Stuffs/Achievements:**
+**More about me:**
 
 - Kaggle Contributor [@Kaggle](https://www.kaggle.com/amritpal333)
--  DeepLearning.AI certified Tensorflow devolper
-- How to reach me: ap4.singh@gmail.com
+- DeepLearning.AI certified Tensorflow devolper
+- ap4.singh@gmail.com
+<a href="https://twitter.com/DrAmrit_pal">
 
+<a href="https://www.linkedin.com/in/amritpal-singh-38284315a/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@Amritpal001">
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<br />
+<br />
 &nbsp;
 
 <br>
