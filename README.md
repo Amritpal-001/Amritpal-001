@@ -14,9 +14,9 @@
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://github.com/Amritpal-001/Amritpal-001/blob/main/Images/index.png) |  ![](https://github.com/Amritpal-001/Amritpal-001/blob/main/Images/index.png)
+Solarized dark             |  Solarized Ocean      |  Solarized Ocean
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/Amritpal-001/Amritpal-001/blob/main/Images/index.png) |  ![](https://github.com/Amritpal-001/Amritpal-001/blob/main/Images/index.png) |  ![](https://github.com/Amritpal-001/Amritpal-001/blob/main/Images/index.png)
 
 
 ![Amritpal's github stats](https://github-readme-stats.vercel.app/api?username=Amritpal-001&count_private=true&show_icons=true&hide_border=true&theme=chartreuse-dark)
