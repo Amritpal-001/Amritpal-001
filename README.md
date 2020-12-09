@@ -6,7 +6,6 @@
 - DeepLearning.AI certified Tensorflow devolper
 
 ```**Interest:**
-- 
 ```
 
 
