@@ -1,8 +1,8 @@
 
-## Hey 👋, I'm Amrit
+## Hey , I'm Amrit
 
-**More about me:**
-- An medical undergraduate from Maulana azad medical college, New Delhi, India.
+**About me:**
+- Medical undergraduate from Maulana azad medical college, New Delhi, India.
 - DeepLearning.AI certified Tensorflow devolper
 
 - [Email](ap4.singh@gmail.com) , [Kaggle](https://www.kaggle.com/amritpal333)
