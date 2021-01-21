@@ -16,10 +16,6 @@
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-Computer vision          |  AI in medicine      |  Generative AI
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/Amritpal-001/Amritpal-001/blob/main/Images/skin_lesion_1.png) |  ![](https://github.com/Amritpal-001/Amritpal-001/blob/main/Images/ai.med_logo.jpeg) |  ![](https://github.com/Amritpal-001/Amritpal-001/blob/main/Images/GAN_art_1.jpeg)
-
 
 **Languages and Tools:**
 
