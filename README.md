@@ -2,11 +2,8 @@
 ## Hey 👋, I'm Amrit
 
 **More about me:**
-- an undergraduate student from Maulana azad medical college, New Delhi 🚀 India.
+- An medical undergraduate from Maulana azad medical college, New Delhi, India.
 - DeepLearning.AI certified Tensorflow devolper
-
-```**Interest:**
-```
 
 - ap4.singh@gmail.com
 - [@Kaggle](https://www.kaggle.com/amritpal333)
