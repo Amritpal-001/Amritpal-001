@@ -3,9 +3,8 @@
 - Medical undergraduate from Maulana azad medical college, New Delhi, India.
 - DeepLearning.AI certified Tensorflow devolper
 
-## [Link to my projects](https://amritpal001.wordpress.com/portfolio/)
-
-- [Email](ap4.singh@gmail.com) , [Kaggle](https://www.kaggle.com/amritpal333)
+#### [Link to my projects](https://amritpal001.wordpress.com/portfolio/)
+#### [Email](ap4.singh@gmail.com) , [Kaggle](https://www.kaggle.com/amritpal333)
 
 ## Programming Skills
   - Language – Python, R, C++, Java script
